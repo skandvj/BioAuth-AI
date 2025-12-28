@@ -44,6 +44,9 @@ I engineered a lightweight CNN pipeline focusing on "Efficiency vs. Accuracy" tr
 
 ---
 
+### 📊 Performance Visualization
+![W&B Charts](Ablations.png)
+*Figure 1: Training Loss convergence showing stability of the SGD optimizer over 50 epochs.*
 
 ---
 
