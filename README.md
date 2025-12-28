@@ -1,4 +1,4 @@
-# 🆔 BioVerify: Identity Authentication Engine
+# 🆔 BioAuth AI: Identity Verification Engine
 **Biometric Security | Computer Vision | Model Optimization**
 
 ![Status](https://img.shields.io/badge/Status-Optimized_v1.0-success?style=for-the-badge)
